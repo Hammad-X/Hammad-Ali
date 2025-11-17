@@ -1,4 +1,4 @@
-#  Hi, I'm Hammad Ali
+##  Hi, I'm Hammad Ali
 
 <div align="right">
   <a href="https://github.com/Hammad-103" target="_blank">
@@ -9,7 +9,7 @@
   </a>  
 </div>
 
----
+
 
 ## About Me  
 <div align="justify">
@@ -18,7 +18,7 @@ Through hands-on projects and continuous LeetCode practice, I’ve shaped strong
 Whether it's debugging issues or building new features, I focus on writing effective and meaningful code.
 </div>
 
----
+
 
 ##  Languages  
 <div align="center">  
@@ -37,21 +37,21 @@ Whether it's debugging issues or building new features, I focus on writing effec
 
 </div>
 
----
+
 
 ##  LeetCode Stats  
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Hammad-Ali?theme=dark&font=Poppins&ext=activity" alt="LeetCode Stats" />
 </div>
 
----
+
 
 ##  Current Focus  
 - Strengthening Data Structures & Algorithms  
 - Building clean & scalable JavaScript projects  
 - Preparing for frontend developer roles  
 
----
+
 
 ## Contact  
 If you want to collaborate or discuss ideas, feel free to reach out on LinkedIn!
