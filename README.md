@@ -9,8 +9,19 @@
 </div>
 
 ---
+### A Little About Me  
+<div align="justify">
+I’m a JavaScript developer who values clarity, simplicity, and results. I focus on building solutions that work in the real world rather than chasing perfection.
 
-## Languages and Tools  
+Through LeetCode and hands-on projects, I’ve developed strong problem-solving skills and a practical approach to development. From debugging issues to creating new features, I prioritize clean, maintainable, and effective solutions.
+</div>  
+  
+
+<br/>  
+
+
+
+## Languages 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
